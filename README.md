@@ -10,7 +10,7 @@ I've always had an interest in tech from video games and much unrestricted inter
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james3160&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e28708&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
-<img src="SU_BeachStage.gif" alt="Jordan Hobson Headshot" height=500px width=780px/>
+<img src="SU_BeachStage.gif" alt="Jordan Hobson Headshot" height=450px width=780px/>
 </p>
 
 
